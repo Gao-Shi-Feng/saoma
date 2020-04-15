@@ -1,0 +1,44 @@
+body{
+    background:#339966;
+}
+.cont{
+    border:solid 1px red;
+    padding:20px;
+    width:80%;
+    margin: 20% auto;
+    
+}
+h1{
+    text-align: center;
+    color: #fff;
+    margin-bottom: 50px;
+}
+.kuang{
+    margin: 20px auto;
+    
+    color: #fff;
+    text-align: center;
+}
+.kuang .input_text{
+    width: 80%;
+    height: 20px;
+    padding: 10px;
+
+}
+.bt{
+    margin-top: 20px;
+    width: 20%;
+    height: 40px;
+    padding: 10px;
+    color: #339966;
+    border: none;
+    background: #fff;
+    border-radius: 10px;
+}
+.mianze {
+    margin-top: 100px;
+}
+.mianze p{
+    color: #CC0066;
+    font-size: 12px;
+}
