@@ -14,3 +14,7 @@ saoma.php → 一般不需修改
 采用了草料二维码的api接口
 
 本人第一次写程序 有很多不足的地方希望大家指导
+
+演示地址：https://www.rapbang.cn/saoma
+
+详情 ：http://www.improve.ga/2020/04/19/0422/
